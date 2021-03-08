@@ -1,3 +1,5 @@
 This is ammending commit example 2nd file.
+Create a merge conflict value : 5678 on this line.
 Some changes to the file over the remote repo.
 Bring these changes to the local repo.
+Create a merge conflict value : 5678 on this line.

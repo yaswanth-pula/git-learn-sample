@@ -1,8 +1,5 @@
 This is Conflict file which have new contents over the main branch.
 SO lets see if any merge conflicts arrive?
-<<<<<<< HEAD
-
-=======
 Changes made in TEST branch.
->>>>>>> dev
+
 

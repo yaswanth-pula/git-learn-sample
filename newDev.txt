@@ -1,0 +1,2 @@
+This is simple file which have new contents over the main branch.
+SO lets see if any merge conflicts arrive?

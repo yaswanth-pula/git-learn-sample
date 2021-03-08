@@ -1,0 +1,1 @@
+Testing  pull rebasing text file on the local repo. 
